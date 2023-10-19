@@ -1,0 +1,63 @@
+.th{
+    margin: 50px;
+    padding: 50px;
+    font-style: 100px;
+    color: blue ;background-color: black ;
+}
+
+#mi-elemento {
+    /* Estilos para el elemento con el atributo "id" igual a "mi-elemento" */
+    background-color: lightblue;
+    color: darkblue;
+  }
+
+  .mi-div {
+    width: 200px;
+    height: 100px;
+    border: 2px solid #000;
+    
+    padding: 10px;
+    
+  }
+
+  .elemento-1 {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    position: absolute;
+    top: 50px;
+    left: 50px;
+    z-index: 1; 
+  }
+  
+  .elemento-2 {
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    position: absolute;
+    top: 70px;
+    left: 70px;
+    z-index: 2;
+  }
+  
+  .elemento-3 {
+    width: 100px;
+    height: 100px;
+    background-color: green;
+    position: absolute;
+    top: 90px;
+    left: 90px;
+    z-index: 3; 
+  }
+
+  h1 {
+    color: #0074D9;
+    font-size: 24px;
+  }
+  
+  
+  p {
+    color: #333;
+    font-size: 16px;
+    margin-top: 20px;
+  }
